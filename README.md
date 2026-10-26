@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 **InspecFácil** es una solución integral diseñada para modernizar y digitalizar los procesos de auditoría en terreno, inspecciones pre-operacionales de maquinaria y cumplimiento de Seguridad y Salud en el Trabajo (SST) para la industria ecuatoriana.
 
@@ -19,7 +19,7 @@ La plataforma resuelve la dependencia de formularios en papel, la pérdida de ev
 
 ---
 
-## 🚀 Capacidades y Módulos Principales
+## Capacidades y Módulos Principales
 
 ### 1. Terminal Móvil de Terreno (Mobile PWA Experience)
 * **Lanzador Táctico Ergonómico:** Acceso instantáneo a escáner de códigos QR y catálogo de activos con interfaz de diseño nativo (Apple HIG / Android).
@@ -61,7 +61,7 @@ La plataforma resuelve la dependencia de formularios en papel, la pérdida de ev
 
 ---
 
-## 💻 Instalación y Puesta en Marcha (NPM)
+## Instalación y Puesta en Marcha (NPM)
 
 ### Prerrequisitos
 * **Node.js**: Versión 18.0.0 o superior instalada.
@@ -99,7 +99,7 @@ La plataforma resuelve la dependencia de formularios en papel, la pérdida de ev
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 InspecFacil/
@@ -141,7 +141,7 @@ InspecFacil/
 
 ---
 
-## 👥 Perfiles de Usuario para Demostración
+## Perfiles de Usuario para Demostración
 
 La plataforma incluye autenticación de acceso rápido por roles preconfigurados para evaluación de flujo completo:
 
